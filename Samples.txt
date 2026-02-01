@@ -1,0 +1,29 @@
+
+
+
+{
+  "nodes": [
+    {
+      "id": "x",
+      "data": "Task B"
+    },
+    {
+      "id": "y",
+      "data": "Task C"
+    },
+    {
+      "id": "z",
+      "data": "Task D"
+    }
+  ],
+  "edges": [
+    {
+      "from": "x",
+      "to": "z"
+    },
+    {
+      "from": "y",
+      "to": "z"
+    }
+  ]
+}
